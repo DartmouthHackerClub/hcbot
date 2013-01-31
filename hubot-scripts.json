@@ -1,1 +1,15 @@
-["abstract.coffee", "applause.coffee", "ascii.coffee", "cash.coffee", "chat.coffee", "chess.coffee", "clojure.coffee", "commandlinefu.coffee", "cowsay.coffee", "dice.coffee", "dribbble.coffee", "eardropping.coffee", "http-info.coffee", "hubotagainsthumanity.coffee", "jenkins.coffee", "mongo-brain.coffee"]
+[
+	"abstract.coffee",
+   	"ascii.coffee",
+   	"cash.coffee",
+   	"chat.coffee",
+   	"clojure.coffee",
+   	"commandlinefu.coffee",
+   	"dice.coffee",
+   	"dribbble.coffee",
+   	"eardropping.coffee",
+   	"http-info.coffee",
+   	"hubotagainsthumanity.coffee",
+   	"jenkins.coffee",
+   	"mongo-brain.coffee"
+]
