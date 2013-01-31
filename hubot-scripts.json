@@ -7,7 +7,6 @@
    	"commandlinefu.coffee",
    	"dice.coffee",
    	"dribbble.coffee",
-	"eval.coffee",
    	"http-info.coffee",
    	"hubotagainsthumanity.coffee",
    	"jenkins.coffee",
