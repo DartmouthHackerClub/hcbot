@@ -7,9 +7,11 @@
    	"commandlinefu.coffee",
    	"dice.coffee",
    	"dribbble.coffee",
-   	"eardropping.coffee",
+	"eval.coffee",
    	"http-info.coffee",
    	"hubotagainsthumanity.coffee",
    	"jenkins.coffee",
-   	"mongo-brain.coffee"
+   	"mongo-brain.coffee",
+	"ping.coffee",
+	"weather.coffee"
 ]
