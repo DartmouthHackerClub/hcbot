@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n !
+web: bin/hubot --adapter irc --name hcbot --alias !
