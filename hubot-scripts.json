@@ -12,6 +12,5 @@
    	"hubotagainsthumanity.coffee",
    	"jenkins.coffee",
    	"mongo-brain.coffee",
-	"ping.coffee",
-	"weather.coffee"
+	"ping.coffee"
 ]
