@@ -17,11 +17,10 @@
   "dependencies": {
     "hubot": ">=2.4.6",
     "hubot-irc": ">=0.0.1",
-    "hubot-scripts": ">= 2.4.1",
-	"xml2js": ">=0.0.1",
-	"chess": ">=0.0.1",
-	"jsdom": ">=0.0.1",
-	"underscore": ">=0.0.1",
+    "hubot-scripts": "git://github.com/github/hubot-scripts.git#master",
+	"xml2js": "*",
+	"jsdom": "*",
+	"underscore": "*",
 	"mongodb": "*",
     "optparse": "1.0.3"
   },
