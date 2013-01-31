@@ -22,7 +22,7 @@
 	"chess": ">=0.0.1",
 	"jsdom": ">=0.0.1",
 	"underscore": ">=0.0.1",
-	"mongodb": ">=0.0.1",
+	"mongodb": "*",
     "optparse": "1.0.3"
   },
 
