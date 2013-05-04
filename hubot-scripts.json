@@ -10,6 +10,7 @@
    	"http-info.coffee",
    	"hubotagainsthumanity.coffee",
    	"jenkins.coffee",
+   	"keep-alive.coffee",
    	"mongo-brain.coffee",
 	"ping.coffee"
 ]
